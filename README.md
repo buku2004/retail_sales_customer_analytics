@@ -1,4 +1,4 @@
-# Retail Sales Intelligence & Customer Analytics System
+# Retail Sales & Customer Analytics
 
 An end-to-end retail analytics project using Python, SQL, and Power BI to understand sales performance, customer behaviour, and opportunities for business growth.
 
