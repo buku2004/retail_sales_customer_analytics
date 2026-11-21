@@ -70,7 +70,7 @@ The cleaning process also maintains an audit log so that the changes made to the
 
 After preparing the data, I loaded it into PostgreSQL to explore business questions using SQL.
 
-I wrote 17 queries using joins, CTEs, aggregations, window functions, and ranking techniques.
+I wrote 25 queries using joins, CTEs, aggregations, window functions, and ranking techniques.
 
 The analysis focused on:
 
